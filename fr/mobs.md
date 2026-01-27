@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mobs
+lang: fr
 ---
 {% include navbar.md %}
 
