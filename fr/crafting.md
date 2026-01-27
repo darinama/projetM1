@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Fabrication
+title: Crafting
 ---
 {% include navbar.md %}
 
 <div style="text-align: center; margin-top: 50px;">
-  <h1>Fabrication</h1>
+  <h1>Crafting</h1>
 </div>
 
-Cette page vous guidera à travers les bases de la fabrication, ce qui est essentiel pour vous aider à survivre.
+Cette page vous guidera à travers les bases du crafting, ce qui est essentiel pour vous aider à survivre.
 
 ## Table de fabrication
 Pour fabriquer des objets, vous aurez besoin d’une table de fabrication. Elle peut être fabriquée directement depuis votre inventaire en utilisant 4 planches de n’importe quel type de bois. Pour obtenir des planches de bois, vous devez récolter du bois, ce qui peut se faire à mains nues. Vous pouvez transformer une bûche de bois en planches directement depuis votre inventaire. Une bûche de bois donne 4 planches, ce qui est suffisant pour fabriquer une table de fabrication.
