@@ -1,5 +1,6 @@
 <div style="width: 100%; text-align: center; background-color: #1e1e1e; border: 5px solid #9ccf4c; padding: 10px; box-sizing: border-box;">
 
+  <!-- Navigation principale -->
   {% if page.lang == "fr" %}
     <a href="/fr/index" style="color:#9ccf4c; margin:0 15px; font-size:22px; text-decoration:none;">Accueil</a>
     <a href="/fr/dimensions" style="color:#9ccf4c; margin:0 15px; font-size:22px; text-decoration:none;">Dimensions</a>
@@ -16,14 +17,16 @@
     <a href="/en/end-dragon" style="color:#9ccf4c; margin:0 15px; font-size:22px; text-decoration:none;">Ender Dragon</a>
   {% endif %}
 
+  <!-- Séparateur -->
   <span style="margin: 0 20px; color: #9ccf4c;">|</span>
 
+  <!-- Switch de langue (page courante) -->
   {% if page.lang == "fr" %}
-    <a href="/en{{ page.url | remove_first:'/fr' }}" style="color:#ffffff; font-size:18px; text-decoration:none;">
+    <a href="{{ page.url | replace_first: '/fr', '/en' }}" style="color:#ffffff; font-size:18px; text-decoration:none;">
       🇬🇧 English
     </a>
   {% else %}
-    <a href="/fr{{ page.url | remove_first:'/en' }}" style="color:#ffffff; font-size:18px; text-decoration:none;">
+    <a href="{{ page.url | replace_first: '/en', '/fr' }}" style="color:#ffffff; font-size:18px; text-decoration:none;">
       🇫🇷 Français
     </a>
   {% endif %}
