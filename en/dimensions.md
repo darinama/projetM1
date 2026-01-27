@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Dimensions en Biomes
+lang: en
 ---
 {% include navbar.md %}
 
