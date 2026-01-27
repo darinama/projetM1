@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Crafting
+lang: en
 ---
 {% include navbar.md %}
 
