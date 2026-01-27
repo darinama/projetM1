@@ -9,7 +9,7 @@ title: Homepage
 </div>
 
 <p align="center">
-  <img src="./img/logo.png" width="805" height="220">
+  <img src="../img/logo.png" width="805" height="220">
 </p>
 
 This website is a beginner's guide to the video game *Minecraft*. From crafting to *The End*, find out the basics of Minecraft and how to survive in a hostile survival game!
