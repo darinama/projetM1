@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ender Dragon
+lang: fr
 ---
 {% include navbar.md %}
 
