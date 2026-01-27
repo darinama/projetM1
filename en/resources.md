@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Homepage
+lang: en
 ---
 
 {% include navbar.md %}
