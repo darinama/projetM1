@@ -14,7 +14,7 @@ The Overwolrd is the main dimension while others are more dangerous and can only
 
 # The Overworld
 <p align="center">
-  <img src="./img/dimensions/overworld.png" width="700" height="368">
+  <img src="../img/dimensions/overworld.png" width="700" height="368">
 </p>
 
 The Overworld is the main dimension in Minecraft.
@@ -32,7 +32,7 @@ Many structures can be found around the Overworld, such as villages, desert temp
 
 # The Nether
 <p align="center">
-  <img src="./img/dimensions/nether.png" width="700" height="368">
+  <img src="../img/dimensions/nether.png" width="700" height="368">
 </p>
 
 The Nether is a dimension that resembles hell. It has a dark scary atmosphere and is mostly made of Netherack.
@@ -46,7 +46,7 @@ There is no day and night cycle, but traveling from A to B is faster in the Neth
 To access the Nether you will need to go through a **Nether portal**. You can build one from scratch or repair a broken portal in the Overworld.
 
 <p align="center">
-  <img src="./img/dimensions/portal.png" width="180" height="300">
+  <img src="../img/dimensions/portal.png" width="180" height="300">
 </p>
 
 To build a portal you will need to:
@@ -60,7 +60,7 @@ To build a portal you will need to:
 
 # The End
 <p align="center">
-  <img src="./img/dimensions/the-end.png" width="700" height="368">
+  <img src="../img/dimensions/the-end.png" width="700" height="368">
 </p>
 
 The End is the *final dimension* of Minecraft. It is a desert-ish dimension mostly made of End Stone.
